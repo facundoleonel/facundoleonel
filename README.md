@@ -1,4 +1,4 @@
-## About Me 👋
+## About Me 
 
 <!--
 **facundoleonel/facundoleonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Apacionado sobre las tecnologias y la programación:
+
+Estudiante de Lic en Sistemas en Universida Nacional De Entre Ríos (UNER).
+Estudiante de Tecnicatura en Desarrollo Web en Universida Nacional De Entre Ríos (UNER).
