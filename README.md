@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 Apacionado sobre las tecnologias y la programación:
 
-Estudiante de Lic en Sistemas en Universida Nacional De Entre Ríos (UNER).
-Estudiante de Tecnicatura en Desarrollo Web en Universida Nacional De Entre Ríos (UNER).
+.Estudiante de Lic en Sistemas en Universida Nacional De Entre Ríos (UNER).
+.Estudiante de Tecnicatura en Desarrollo Web en Universida Nacional De Entre Ríos (UNER).
